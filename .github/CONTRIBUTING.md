@@ -4,7 +4,7 @@
 
 ## Bugs?
 
-* Submit an issue on the [Issues page](https://github.com/QCBSRworkshops/qcbsRworkshops/issues)
+* Submit an issue on the [Issues page](https://github.com/XXX/XXX/issues)
 - be sure to include R session information and a [reproducible example](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example) (repex).
 
 
@@ -12,13 +12,13 @@
 
 ### Broad overview of contributing workflow
 
-* Fork this repo to your Github account
-* Clone your version on your account down to your machine from your account, e.g,. `git clone https://github.com/<yourgithubusername>/qcbsRworkshops.git`
-* Make sure to track progress upstream (i.e., on our version of `qcbsRworkshops` at `QCBSRworkshops/qcbsRworkshops`) by doing `git remote add upstream https://github.com/QCBSRworkshops/qcbsRworkshops.git`. Before making changes make sure to pull changes in from upstream by doing either `git fetch upstream` then merge later or `git pull upstream` to fetch and merge in one step
+* Fork this repository to your GitHub account
+* Clone your version on your account down to your machine from your account, e.g,. `git clone https://github.com/XXX/XXX.git`
+* Make sure to track progress upstream (i.e., on our version of `XXX` at `XXX/XXX`) by doing `git remote add upstream https://github.com/XXX/XXX.git`. Before making changes make sure to pull changes in from upstream by doing either `git fetch upstream` then merge later or `git pull upstream` to fetch and merge in one step
 * Make your changes (bonus points for making changes on a new feature branch)
 * Please do write a test(s) for your changes if they affect code and not just docs (see Tests below)
 * Push up to your account
-* Submit a pull request to home base at `QCBSRworkshops/qcbsRworkshops`
+* Submit a pull request to home base at `XXX/XXX`
 
 ### Tests
 
@@ -66,7 +66,6 @@ Be conservative about adding new dependencies.
 
 * Make sure code, documentation, and comments are no more than 80 characters in width;
 * Use https://style.tidyverse.org/.
-
 
 
 ## Thanks for contributing!

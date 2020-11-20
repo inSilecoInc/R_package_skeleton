@@ -11,3 +11,9 @@ to be used with the [`devtools`](https://devtools.r-lib.org/) package (and
 - https://r-pkgs.org
 - https://style.tidyverse.org/
 - https://kevcaz.github.io/aboutRPackages/#1
+- https://ropensci.org/blog/2019/01/14/conduct/
+
+## Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](https://docs.ropensci.org/rcites/CONDUCT.html).
+By participating in this project you agree to abide by its terms.
