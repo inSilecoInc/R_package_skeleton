@@ -10,5 +10,6 @@
 #' foo(2, 3)
 
 foo <- function(x, y = x) {
+  cli::cli_alert_info("useful message")
   x + y + 1
 }
