@@ -1,7 +1,7 @@
 Package: skeleton
 Title: Template 
 Version: 0.0.0.9000
-Date: 2023-12-31
+Date: 2024-03-16
 Authors@R: 
     person(given = "Kevin",
            family = "Cazelles",
@@ -20,4 +20,4 @@ Imports:
 Suggests:
     testthat,
     knitr
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
